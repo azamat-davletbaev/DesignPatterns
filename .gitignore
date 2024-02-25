@@ -1,0 +1,8 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DesignPatterns/DesignPatterns/bin/Debug/net8.0
+/DesignPatterns/DesignPatterns/obj
+/DesignPatterns/.vs/DesignPatterns
